@@ -1,5 +1,3 @@
-# Customize
-
 ### Theming Your App {#theming-your-app}
 
 Customizing the App will be a cakewalk for you. That is due to the fact, we provide you well prepared code shape. This makes it quite simple to be able to dig through the code and hence without problems customizable.

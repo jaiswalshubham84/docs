@@ -1,5 +1,3 @@
-# System Requirements
-
 ## System Requirements {#system-requirements}
 
 * **Operating Systems** : macOS \(64-bit\).

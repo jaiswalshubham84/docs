@@ -1,25 +1,23 @@
-# Flutter  App
-
 ## Flutter Task Listing App
 
-Run the following commands on your terminal to setup Flutter Task Listing App on your system.
+Run the following commands on your terminal to setup [Flutter Task Listing App](https://fluttermarket.com/view/flutter-task-listing-app) on your system.
 
 #### Installation {#installation}
 
 * **Get the code**
   * Opt \#1. Download ZIP
 
-    Not familiar with Git? Click here to download the app. Extract the contents of ZIP file after downloading. Downloading ZIP file does not help you to sync with further updates of the app.
+    Not familiar with Git? Click [here](https://gitstrap.com/Flutter/Flutter-TaskListingApp/repository/archive.zip?ref=master) to download the app. Extract the contents of ZIP file after downloading. Downloading ZIP file does not help you to sync with further updates of the app.
 
   * Opt \#2. Clone
 
-    To setup Flutter Task Listing App on your system, and sync your app with constant updates, clone the repo. Click [here](https://gitstrap.com/Flutter/Flutter-do) to clone the app using GitStrap.
+    To setup [Flutter Task Listing App](https://fluttermarket.com/view/flutter-task-listing-app) on your system, and sync your app with constant updates, clone the repo. Click [here](https://gitstrap.com/Flutter/Flutter-TaskListingApp) to clone the app using GitStrap.
 * **Install packages**
 
   ```text
-  cd Flutter_do/
+  cd Flutter-TaskListingApp/
   flutter doctor
-  cd flutterdo/
+  cd flutter_task_listing/
   flutter run
   ```
 

@@ -1,5 +1,3 @@
-# Technologies
-
 ## Technologies Used {#technologies-used}
 
 The components of the App are built using the core components of Flutter. There are two core concepts and classes for managing multiple screens: [Route](https://docs.flutter.io/flutter/widgets/Route-class.html) and [Navigator](https://docs.flutter.io/flutter/widgets/Navigator-class.html).
@@ -24,5 +22,5 @@ Designed for both new and experienced mobile developers, Flutter can help you bu
 * **Expressive and flexible designs-** With composable widget sets, rich animation libraries, and a layered, extensible architecture.
 * **High-quality experiences-** Across devices and platforms with our portable GPU-accelerated renderer and high-performance, native ARM code runtime.
 * **Hero-Animation-** The [Hero](https://flutter.io/animations/hero-animations/) refers to the widget that flies between screens. When the user taps the InkWell containing the source hero, the code creates the destination route using MaterialPageRoute. Pushing the destination route to the Navigator’s stack triggers the animation.
-* **Carousel-** There is no such official class / package available for Carousel but we can make this using PageView.builder class. It creates a scrollable list that works page by page using widgets that are created on demand. Just by providing some animation we can create some beautiful carousel.
+* **Carousel-** There is no such official class / package available for Carousel but we can make this using [PageView.builder](https://docs.flutter.io/flutter/widgets/PageView/PageView.builder.html) . It creates a scrollable list that works page by page using widgets that are created on demand. Just by providing some animation we can create some beautiful carousel.
 

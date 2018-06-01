@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Flutter Task Listing App](README.md)
-* [Introduction](introduction.md)
+* [Introduction](README.md)
 * [Screens](screens.md)
 * [Technologies](technologies.md)
 * [Installation](installation/README.md)

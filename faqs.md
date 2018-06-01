@@ -1,5 +1,3 @@
-# FAQs
-
 ## FAQs {#faqs}
 
 * [How do I extract files in Windows?](https://samaritan1011001.gitbooks.io/flutter-swiggy-app/content/faqs.html#extract)

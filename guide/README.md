@@ -1,5 +1,3 @@
-# Guide
-
 ## Start Building Your App {#start-building-your-app}
 
 This App guides you throughout building your app, providing the steps and procedure to customize.

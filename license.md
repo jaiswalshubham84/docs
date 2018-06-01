@@ -1,5 +1,3 @@
-# License
-
 ## License {#license}
 
 Use of an item is bound by the license you purchase. A license grants you a non-exclusive and non-transferable right to use and incorporate the item in your personal or commercial projects. There are several licenses available:
